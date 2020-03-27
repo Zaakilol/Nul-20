@@ -1,0 +1,13 @@
+CD = coin haut droit
+CG = coin haut gauche
+CA = coin bas gauche
+CB = coin bas droit
+HG = mur haut gauche
+HD = mur haut droite
+BG = mur bas gauche
+BD = mur bas droite
+
+B1 = mur bas
+G1 = mur gauche
+D1 = Mur droit
+H1 = mur haut
